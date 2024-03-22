@@ -1,0 +1,35 @@
+{
+  "name": "nostrumcorporis",
+  "version": "1.0.0",
+  "description": "trie implementation in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ConsueloBrekke/nostrumcorporis.git"
+  },
+  "keywords": [
+    "magni",
+    "repudiandae",
+    "necessitatibus"
+  ],
+  "author": "ZoeyBrekke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConsueloBrekke/nostrumcorporis.git/issues"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "grunt": "^1.0.4",
+    "grunt-eslint": "^22.0.0",
+    "grunt-mocha-istanbul": "^5.0.2",
+    "grunt-mocha-test": "^0.13.3",
+    "istanbul": "^0.4.5",
+    "mocha": "^6.2.2"
+  }
+}
